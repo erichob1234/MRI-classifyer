@@ -49,5 +49,5 @@ Optimizer: AdamW
 - PyTorch
 - Torchvision
 - CUDA 
-- Optuna
+- Optuna(Baysian)
 - NumPy
