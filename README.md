@@ -37,6 +37,8 @@ Modifications:
 
 *x_norm = (x - μ) / σ*
 
+Activation: ReLU
+
 Loss Function:
 Weighted Cross Entropy Loss is used to address class imbalance.
 
